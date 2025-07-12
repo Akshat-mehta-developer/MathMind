@@ -1,0 +1,888 @@
+{
+    "akshat_mehta": {
+        "score": 3640,
+        "grade": 2,
+        "history": [
+            {
+                "date": "2025-07-07 20:10",
+                "score": 100,
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Easy"
+            },
+            {
+                "date": "2025-07-07 20:15",
+                "score": 0,
+                "grade": 4,
+                "topic": "Fractions",
+                "level": "Hard"
+            },
+            {
+                "date": "2025-07-07 20:42",
+                "score": 50,
+                "grade": 7,
+                "topic": "Algebra",
+                "level": "Hard"
+            },
+            {
+                "date": "2025-07-07 21:18",
+                "score": 40,
+                "grade": 8,
+                "topic": "Algebra",
+                "level": "Easy"
+            },
+            {
+                "date": "2025-07-07 21:27",
+                "score": 0,
+                "grade": 8,
+                "topic": "Algebra",
+                "level": "Hard"
+            },
+            {
+                "date": "2025-07-08 22:03",
+                "score": 0,
+                "grade": 4,
+                "topic": "Fractions",
+                "level": "Hard"
+            },
+            {
+                "date": "2025-07-10 13:20:30",
+                "grade": 2,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 20,
+                "user_answers": [
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "10",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "24",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "10",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "42",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "24",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "24",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "24",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "24",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "36",
+                        "correct": "42"
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 2, Easy)",
+                        "selected": "42",
+                        "correct": "42"
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 13:56:59",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 40,
+                "user_answers": [
+                    {
+                        "question": "What is 2 + 3?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "2 + 1 = ?",
+                        "correct": "3",
+                        "chosen": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 3 apples. How many apples do they have altogether?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have together?",
+                        "correct": "3",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have altogether?",
+                        "correct": "3",
+                        "chosen": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 3 apples. How many apples do they have together?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "2 + 3 = ?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "2 apples + 1 apple = ?",
+                        "correct": "3",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have in all?",
+                        "correct": "3",
+                        "chosen": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "[Failed to generate] Addition (Grade 1, Easy)",
+                        "correct": "42",
+                        "chosen": "36",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 14:00:32",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Hard",
+                "score": 20,
+                "user_answers": [
+                    {
+                        "question": "Lily has 12 stickers. Tom gives her 8 more. Then, she gives 5 stickers to her friend. How many stickers does Lily have now?",
+                        "correct": "15",
+                        "chosen": "18",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red balloons and 8 blue balloons. How many balloons does Lily have in all?",
+                        "correct": "20",
+                        "chosen": "18",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red balloons and 8 blue balloons. If she gives 5 balloons to her friend, how many balloons does Lily have left?",
+                        "correct": "15",
+                        "chosen": "16",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 stickers. She gets 8 more stickers from her friend. Then, she gives 5 stickers to her brother. How many stickers does Lily have now?",
+                        "correct": "15",
+                        "chosen": "14",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red balloons and 8 blue balloons. How many balloons does Lily have in all?  If we are only counting the balloons that are *not* blue, how many balloons are there?",
+                        "correct": "20",
+                        "chosen": "22",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red balloons and 8 blue balloons. How many balloons does Lily have in all?  If she gives 5 balloons to her friend, how many balloons does she have left?",
+                        "correct": "20",
+                        "chosen": "20",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 12 apples. Tom gives her 8 more apples. Then, she gives 5 apples to her friend. How many apples does Lily have now?",
+                        "correct": "15",
+                        "chosen": "16",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red balloons and 9 blue balloons. How many balloons does Lily have in all?",
+                        "correct": "21",
+                        "chosen": "23",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 stickers. Ben gives her 7 more stickers. Then, she gives 5 stickers to her friend. How many stickers does Lily have now?",
+                        "correct": "14",
+                        "chosen": "14",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 12 apples. She gives 5 apples to her friend Tom and 3 apples to her sister Rose. How many apples does Lily have left?",
+                        "correct": "4",
+                        "chosen": "15",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 14:06:37",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 10,
+                "user_answers": [
+                    {
+                        "question": "2 + 3 = ?",
+                        "correct": "5",
+                        "chosen": "3",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have altogether?",
+                        "correct": "3",
+                        "chosen": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have in all?",
+                        "correct": "3",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 1 apple. How many apples do they have together?",
+                        "correct": "3",
+                        "chosen": "5",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "2 + 1 = ?",
+                        "correct": "3",
+                        "chosen": "5",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "2 apples + 1 apple = ?",
+                        "correct": "3",
+                        "chosen": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 3 apples. How many apples do they have altogether?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 2 + 3?",
+                        "correct": "5",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 2 apples and Tom has 3 apples. How many apples do they have together?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 2 + 1?",
+                        "correct": "3",
+                        "chosen": "4",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 14:35:47",
+                "grade": 2,
+                "topic": "Counting",
+                "level": "Hard",
+                "score": 10,
+                "user_answers": [
+                    {
+                        "question": "Sally has 23 stickers.  She gives 8 stickers to her friend Tom. Then, she finds 12 more stickers. How many stickers does Sally have now?",
+                        "correct": "27",
+                        "chosen": "13",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sally has 23 buttons.  She finds 15 more buttons in her box. Then, she gives 11 buttons to her friend Tom. How many buttons does Sally have left?",
+                        "correct": "27",
+                        "chosen": "17",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sarah has 23 buttons.  She buys a pack of 15 more buttons and then loses 7. How many buttons does Sarah have now?",
+                        "correct": "31",
+                        "chosen": "45",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sally has 23 buttons.  She finds 15 more buttons in a box, and then loses 8 buttons while playing. How many buttons does Sally have now?",
+                        "correct": "20",
+                        "chosen": "30",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sally has 23 buttons.  She gives 12 buttons to her friend Tom. Then, she finds 5 more buttons in her pocket. How many buttons does Sally have now?",
+                        "correct": "16",
+                        "chosen": "20",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 3 baskets of apples. The first basket has 15 apples. The second basket has 12 apples.  The third basket has some apples, but 7 apples are rotten and thrown away. If there are a total of 32 apples left in all the baskets, how many apples were originally in the third basket?",
+                        "correct": "10",
+                        "chosen": "25",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sally has 23 buttons.  She finds 15 more buttons in her drawer and 12 more under her bed.  Then she gives away 25 buttons to her friend. How many buttons does Sally have left?",
+                        "correct": "25",
+                        "chosen": "50",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sally has 23 buttons.  She finds 15 more buttons in her toy box and then gives 11 buttons to her friend. How many buttons does Sally have left?",
+                        "correct": "27",
+                        "chosen": "17",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 3 bags of apples.  Each bag has 10 apples, but 5 apples are rotten in total. How many good apples are there?",
+                        "correct": "25",
+                        "chosen": "25",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Sally has 3 bags of apples. Each bag has 5 apples, but 2 apples in one bag are rotten. How many good apples does Sally have?",
+                        "correct": "13",
+                        "chosen": "11",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 15:15:35",
+                "grade": 2,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 70,
+                "user_answers": [
+                    {
+                        "question": "Mia has 6 red balloons. She gets 3 blue balloons. How many balloons does Mia have in all?",
+                        "correct": "9 balloons",
+                        "chosen": "6 balloons",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 5 birds on a tree. 2 more birds come to join them. How many birds are there in total?",
+                        "correct": "7",
+                        "chosen": "7",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Mia has 12 red balloons. Her friend gives her 7 blue balloons. How many balloons does Mia have in all?",
+                        "correct": "19 balloons",
+                        "chosen": "19 balloons",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Mia has 12 red balloons and 5 blue balloons. How many balloons does Mia have in total?",
+                        "correct": "17 balloons",
+                        "chosen": "17 balloons",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "There are 12 birds sitting on a tree branch. 5 more birds fly and join them. How many birds are on the branch now?",
+                        "correct": "17",
+                        "chosen": "17",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Leo has 7 stickers. He gets 4 more stickers from his mom. How many stickers does Leo have in total?",
+                        "correct": "11",
+                        "chosen": "11",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is 12 + 5?",
+                        "correct": "17",
+                        "chosen": "17",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is 15 + 4?",
+                        "correct": "19",
+                        "chosen": "9",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Mia has 12 red balloons. She gets 4 more blue balloons. How many balloons does Mia have in all?",
+                        "correct": "16",
+                        "chosen": "15",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Mia has 23 stickers. She buys 15 more stickers. How many stickers does Mia have now?",
+                        "correct": "38",
+                        "chosen": "38",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-11 15:45:23",
+                "grade": 2,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 50,
+                "user_answers": [
+                    {
+                        "question": "Leo has 8 toy cars. His friend gives him 4 more toy cars. How many toy cars does Leo have in total?",
+                        "correct": "12",
+                        "chosen": "12",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Mia has 7 red balloons. She gets 3 blue balloons. How many balloons does Mia have in total?",
+                        "correct": "10",
+                        "chosen": "10",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is the sum of 7 and 5?",
+                        "correct": "12",
+                        "chosen": "12",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is 17 + 6?",
+                        "correct": "23",
+                        "chosen": "23",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Mia has 12 red balloons and 5 blue balloons. How many balloons does she have in all?",
+                        "correct": "17",
+                        "chosen": "12",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 6 + 3?",
+                        "correct": "9",
+                        "chosen": "10",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Mia has 6 red apples. She gets 4 more green apples. How many apples does Mia have in all?",
+                        "correct": "10 apples",
+                        "chosen": "9 apples",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 8 balloons. Her friend gives her 4 more balloons. How many balloons does Lily have now?",
+                        "correct": "12",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Mia had 7 cookies. Her friend gave her 6 more cookies. How many cookies does Mia have now?",
+                        "correct": "13",
+                        "chosen": "13",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Maria has 4 red flowers. She picks 3 more blue flowers. How many flowers does Maria have in total?",
+                        "correct": "7 flowers",
+                        "chosen": "6 flowers",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    "akshat_mehta_b990": {
+        "score": 80,
+        "grade": 1
+    },
+    "akshat_mehta_0606": {
+        "score": 0,
+        "grade": 1
+    },
+    "aneesh_mehta": {
+        "score": 50,
+        "grade": 2,
+        "history": [
+            {
+                "date": "2025-07-12 12:03:10",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Hard",
+                "score": 0,
+                "user_answers": [
+                    {
+                        "question": "If you have 12 red apples and 9 green apples, how many apples do you have in total if you also add 3 yellow apples?",
+                        "correct": "24",
+                        "chosen": "30",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 8 red apples and 7 green apples in a basket.  If 3 apples are eaten, how many apples are left in the basket?",
+                        "correct": "12",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 12 red apples and 8 green apples.  If she gives away 5 apples in total, how many apples does she have left?",
+                        "correct": "15",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 9 red apples and 8 green apples in a basket.  If 5 apples are eaten, how many apples are left in the basket?",
+                        "correct": "12",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If there are 8 red apples and 7 green apples in a basket, how many apples are there in total if 2 apples are eaten?",
+                        "correct": "13",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If you have 8 red balls and 6 blue balls, how many balls do you have in total if you add 2 more yellow balls?",
+                        "correct": "16",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If you have 8 red apples and 7 green apples, how many apples do you have in total?",
+                        "correct": "15",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 9 red apples and 8 green apples in a basket.  How many apples are there in total if 2 apples have fallen on the floor?",
+                        "correct": "15",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If Lily has 8 red apples and 7 green apples, how many apples does she have in total if she gives 3 apples to her brother?",
+                        "correct": "12",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If you have 12 red apples and 10 green apples, how many apples do you have in total?",
+                        "correct": "22",
+                        "chosen": null,
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-12 12:10:53",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 30,
+                "user_answers": [
+                    {
+                        "question": "2 + 1 = ?",
+                        "correct": "3",
+                        "chosen": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "1 + 1 = ?",
+                        "correct": "2",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 3 + 2?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 3 + 4?",
+                        "correct": "7",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 2 + 3?",
+                        "correct": "5",
+                        "chosen": "4",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Lily has 3 red apples and 2 green apples. How many apples does Lily have in total?",
+                        "correct": "5",
+                        "chosen": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 5 + 3?",
+                        "correct": "8",
+                        "chosen": "6",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sarah has 3 red apples and 2 green apples. How many apples does Sarah have in total?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "If you have 3 red apples and 2 green apples, how many apples do you have in total?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "If you have 3 apples and get 2 more apples, how many apples do you have in total?",
+                        "correct": "5",
+                        "chosen": "6",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-12 12:50:45",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Hard",
+                "score": 0,
+                "user_answers": [
+                    {
+                        "question": "There are 5 birds sitting on a tree.  3 more birds fly to the tree. Then, 2 birds fly away. How many birds are on the tree now?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 5 birds on a tree. 3 more birds fly to the tree.  Then, 2 birds fly away. How many birds are on the tree now?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 5 birds on a tree. 3 more birds fly to the tree. Then, 2 birds fly away. How many birds are on the tree now?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If you have 5 red apples, 3 green apples, and then you get 2 more red apples, how many apples do you have in total?",
+                        "correct": "10",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 5 birds on a tree.  3 more birds fly to the tree. Then, 2 birds fly away. How many birds are on the tree now?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 5 red apples.  She gets 3 more red apples from her grandma and 4 green apples from her friend. How many red apples does Maria have in total?",
+                        "correct": "8",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "There are 5 birds sitting on a tree. 3 more birds fly to the tree.  Then, 2 birds fly away. How many birds are on the tree now?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 5 red apples and some green apples.  She has a total of 12 apples. How many green apples does Maria have?",
+                        "correct": "7",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "If you have 5 apples and you get 3 more apples from your friend, and then you eat 1 apple, how many apples do you have left?",
+                        "correct": "7",
+                        "chosen": null,
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Sarah has 3 red apples, 2 green apples, and 4 yellow apples.  If she eats 1 red apple and 2 yellow apples, how many apples does she have left?",
+                        "correct": "6",
+                        "chosen": null,
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-07-12 14:08:58",
+                "grade": 2,
+                "topic": "Addition",
+                "level": "Hard",
+                "score": 20,
+                "user_answers": [
+                    {
+                        "question": "Maria has 23 stickers.  She gets 15 more from her friend, and then finds 12 more under her bed. How many stickers does Maria have in total?",
+                        "correct": "50",
+                        "chosen": "45",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  She gets 15 more from her friend, and then finds 12 more under her bed! How many stickers does Maria have in total?",
+                        "correct": "50",
+                        "chosen": "30",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  Her friend gives her 15 more. Then, she uses 18 stickers to decorate a card. How many stickers does Maria have left?",
+                        "correct": "20",
+                        "chosen": "20",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  She gets 15 more from her friend and 12 more from her brother. How many stickers does Maria have in total?",
+                        "correct": "50",
+                        "chosen": "40",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  Her friend gives her 15 more. Then, Maria uses 18 stickers to decorate her notebook. How many stickers does Maria have left?",
+                        "correct": "10",
+                        "chosen": "8",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  Her friend gives her 15 more. Then she uses 18 stickers to decorate a card. How many stickers does Maria have left?",
+                        "correct": "20",
+                        "chosen": "20",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  She gets 15 more from her friend, then finds another 12 in her backpack. How many stickers does Maria have in total?",
+                        "correct": "50",
+                        "chosen": "30",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 stickers.  She gets 17 more from her friend.  If she gives 15 stickers to her sister, how many stickers does Maria have now?",
+                        "correct": "25",
+                        "chosen": "40",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria had 23 stickers.  She got 17 more stickers from her friend.  Then she gave away 12 stickers to her sister. How many stickers does Maria have now?",
+                        "correct": "28",
+                        "chosen": "40",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "Maria has 23 red beads and 18 blue beads.  Sarah has 15 fewer beads than Maria. How many beads do Maria and Sarah have together?",
+                        "correct": "59",
+                        "chosen": "79",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    "amit_mehta": {
+        "score": 70,
+        "grade": 1,
+        "history": [
+            {
+                "date": "2025-07-11 21:47:47",
+                "grade": 1,
+                "topic": "Addition",
+                "level": "Easy",
+                "score": 70,
+                "user_answers": [
+                    {
+                        "question": "There are 2 birds on a tree. 3 more birds come to join them. How many birds are on the tree now?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is 3 + 2?",
+                        "correct": "5",
+                        "chosen": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Maria has 2 red apples. She gets 3 more green apples. How many apples does Maria have in total?",
+                        "correct": "5 apples",
+                        "chosen": "3 apples",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 5 + 2?",
+                        "correct": "7",
+                        "chosen": "7",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Lily has 4 red flowers. Her friend gives her 2 yellow flowers. How many flowers does Lily have in total?",
+                        "correct": "6 flowers",
+                        "chosen": "6 flowers",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Maya has 3 red apples. Her friend gives her 2 green apples. How many apples does Maya have in total?",
+                        "correct": "5 apples",
+                        "chosen": "5 apples",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "What is 5 + 3?",
+                        "correct": "8",
+                        "chosen": "8",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "If you have 2 apples and your friend gives you 1 more apple, how many apples do you have in total?",
+                        "correct": "3",
+                        "chosen": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "question": "Sam has 3 red apples. He gets 2 more green apples. How many apples does Sam have in total?",
+                        "correct": "5 apples",
+                        "chosen": "4 apples",
+                        "is_correct": false
+                    },
+                    {
+                        "question": "What is 2 + 3?",
+                        "correct": "5",
+                        "chosen": "4",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ]
+    }
+}
