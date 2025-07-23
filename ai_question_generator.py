@@ -7,9 +7,8 @@ import json
 import re
 import os
 
-# Set your Gemini API key
-# genai.configure(api_key="AIzaSyB9G5a3bS08iWv1Dnor-ySgknXvovS9tGo")
-genai.configure(api_key="AIzaSyBTnIxeeI2IbOdlxbG1trcbZOMvxQ946cA")
+# Set your Gemini API "
+genai.configure(api_key="*")
 
 # Use a valid model from your list
 # MODEL = genai.GenerativeModel("models/gemini-1.5-flash")
